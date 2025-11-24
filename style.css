@@ -1,0 +1,5 @@
+/* Apenas para deixar o player e obstáculos com animação suave */
+.smooth {
+    transition: all 0.1s linear;
+  }
+  
